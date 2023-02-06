@@ -1,6 +1,6 @@
 Hello everyone,
-Project Name: HackerRank Automation 
-This is my first project using puppeteer library of NodeJs.
+Project Name: HackerRank Automation Using Promise 
+This is my first project using puppeteer library  of NodeJs and promise function of Javascript.
 
 This Code runs in such a way that it will first open the Chromium Browser then automatically login in the 𝐇𝐚𝐜𝐤𝐞𝐫𝐫𝐚𝐧𝐤 𝐖𝐞𝐛𝐢𝐬𝐭𝐞
 After that : 
